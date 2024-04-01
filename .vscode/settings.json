@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "css.format.enable": false
+}
